@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "eu",
-    "currentPage": "index-es.html.html",
+    "currentPage": "index-es.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -728,7 +728,7 @@
         }
       ]
     },
-    "index-es.html.html": {
+    "index-es.html": {
       "settings": {
         "title": "La Presidencia española de la Unión Europea",
         "meta_descr": "In 2023 Spain will hold the Presidency of the Council of the European Union.",
